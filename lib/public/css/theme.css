@@ -10,6 +10,7 @@
   --text-dim: #383d47;
   --accent: #63ebff;
   --accent-dim: rgba(99, 235, 255, 0.4);
+  --accent-link: rgba(99, 235, 255, 0.6);
 }
 
 html, body { height: 100%; }
