@@ -41,6 +41,12 @@ body::before {
   z-index: 0;
 }
 
+/* Standardised card / section label. */
+.card-label {
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
 /* Unified panel treatment across tabs/pages. */
 .bg-surface {
   background: var(--panel-bg-contrast) !important;
